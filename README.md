@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Interested in AI and ML.
 <!--
 **Kai-Rice/Kai-Rice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
