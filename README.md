@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Interested in AI and ML.
+Student focused on emerging tech (AI + quantum) and building practical software applications.
+
 <!--
 **Kai-Rice/Kai-Rice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
